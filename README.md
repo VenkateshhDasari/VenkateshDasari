@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkatesh u can call me Venky</h1>
-<h3 align="center">A passionate Mobile Application developer from Visakhapatnam, India</h3>
+<h3 align="center">💻 Full Stack | 📱 Mobile | 🌐 Web Developer — passionate about creating impactful digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshhdasari&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshhdasari" /> </p>
 
