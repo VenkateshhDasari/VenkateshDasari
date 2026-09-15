@@ -17,7 +17,6 @@
 
 - 💬 Ask me about **React, React Native, JavaScript, Nodejs**
 
-- 📫 How to reach me ****
 
 - ⚡ Fun fact **I Think I am Funny**
 
