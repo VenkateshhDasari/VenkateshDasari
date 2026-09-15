@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React,React Native**
 
-- 👨‍💻 All of my projects are available at [https://venkateshhdasari.github.io/Portfolio/](https://venkateshhdasari.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://venkateshhdasari.github.io/my-portfolio/](https://venkateshhdasari.github.io/my-portfolio/)
 
 - 💬 Ask me about **React, React Native, JavaScript, Nodejs**
 
